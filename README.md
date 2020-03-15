@@ -1,2 +1,2 @@
-# Mobile-AR-in-Edge-Computing
-Python code for the edge server
+# Edge-assisted AR (Python Code for the Edge Server)
+
